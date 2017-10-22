@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Welcome to DevOps (Giuided from Mohanraj)
+				Welcome to DevOps Training (Guided by Mohanraj...!!!.. Thala)
 			</h1>
 		
 			<div>
