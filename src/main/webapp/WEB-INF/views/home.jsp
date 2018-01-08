@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Welcome to all
+				Welcome to Team 
 			</h1>
 		
 			<div>
