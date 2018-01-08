@@ -182,11 +182,11 @@
 	<distributionManagement>
   		<repository>
     		<id>Releases</id>
-    		<url>http://localhost:8088/nexus/content/repositories/Releases</url>
+    		<url>http://localhost:8040/artifactory/Firstrepo</url>
   		</repository>
   		<snapshotRepository>
    		<id>localsnapshots</id>
-    		<url>http://localhost:8088/nexus/content/repositories/localsnapshots</url>
+    		<url>http://localhost:8040/artifactory/Firstrepo/localsnapshots</url>
  		</snapshotRepository>
 	</distributionManagement>
 	<name>simple-web-app</name>
