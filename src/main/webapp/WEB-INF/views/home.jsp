@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Sai Maharaj ki Jai
+				Welcome to all
 			</h1>
 		
 			<div>
