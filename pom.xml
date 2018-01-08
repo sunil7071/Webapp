@@ -179,15 +179,17 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
-  		<repository>
-    		<id>Releases</id>
-    		<url>http://localhost:8040/artifactory/Firstrepo</url>
-  		</repository>
-  		<snapshotRepository>
-   		<id>localsnapshots</id>
-    		<url>http://localhost:8040/artifactory/Firstrepo/localsnapshots</url>
- 		</snapshotRepository>
-	</distributionManagement>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>inbasdpc08658-releases</name>
+        <url>http://localhost:8040/artifactory/Mvnrepo</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>inbasdpc08658-snapshots</name>
+        <url>http://localhost:8040/artifactory/Mvnrepo</url>
+    </snapshotRepository>
+</distributionManagement>
 	<name>simple-web-app</name>
 </project>
