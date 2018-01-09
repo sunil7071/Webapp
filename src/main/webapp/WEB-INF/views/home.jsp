@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Welcome to Team 
+				One touch automation completed
 			</h1>
 		
 			<div>
